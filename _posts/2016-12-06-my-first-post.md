@@ -1,7 +1,13 @@
 ---
 layout: post
-title: My first post is live!
+title: Happy Nikolaus!
 published: true
 ---
 
-## Happy Nikolaus!
+Just managed to get my first post live!
+
+> We loved with a love that was more than love
+
+	a code block
+
+
